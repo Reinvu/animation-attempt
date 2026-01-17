@@ -25,4 +25,5 @@ rocket-to-moon/
 └── (demo.gif)       ← можно добавить
 
 
-<img width="1920" height="880" alt="{5A536FA8-F19E-483B-AE75-E23F2F55951B}" src="https://github.com/user-attachments/assets/1729f951-5445-4297-bdd4-889c1f99cbf2" />
+<img width="1920" height="877" alt="{2FF025A7-0F40-413E-8E94-34938F5AAB15}" src="https://github.com/user-attachments/assets/9344ddc1-2a48-4f21-a18b-6f38b893a526" />
+

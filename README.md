@@ -4,6 +4,8 @@
 
 Чистый HTML + CSS, без JavaScript.
 
+<img width="1920" height="877" alt="{2FF025A7-0F40-413E-8E94-34938F5AAB15}" src="https://github.com/user-attachments/assets/9344ddc1-2a48-4f21-a18b-6f38b893a526" />
+
 ## Особенности
 
 - Полный цикл: старт с Земли → полёт → появление Луны → посадка → космонавты и флаг
@@ -23,7 +25,4 @@ rocket-to-moon/
 ├── style.css        ← все стили и анимации
 ├── README.md
 └── (demo.gif)       ← можно добавить
-
-
-<img width="1920" height="877" alt="{2FF025A7-0F40-413E-8E94-34938F5AAB15}" src="https://github.com/user-attachments/assets/9344ddc1-2a48-4f21-a18b-6f38b893a526" />
 
